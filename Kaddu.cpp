@@ -2,7 +2,9 @@
 #include <string>
 #include<cstdlib>
 using namespace std;
-
+// friend's code
+// if not work 
+// not my problem
 class School
 {
 public:
